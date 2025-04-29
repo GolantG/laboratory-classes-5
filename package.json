@@ -1,7 +1,7 @@
 {
   "name": "laboratory-classes-3-final",
   "version": "1.0.0",
-  "description": "",
+  "description": "W trakcie pracy nad zadaniami (ćwiczeniami), będziecie spotykać się z różnymi pomocnikami, którzy będą wskazywać, co należy zrobić w danym fragmencie kodu. Im dalsze ćwiczenie, tym rzadziej będą się pojawiać. Oto krótka charakterystyka każdego z nich:",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -16,6 +16,14 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GolantG/laboratory-classes-5.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/GolantG/laboratory-classes-5/issues"
+  },
+  "homepage": "https://github.com/GolantG/laboratory-classes-5#readme"
 }
-
